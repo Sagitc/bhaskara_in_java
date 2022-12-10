@@ -14,4 +14,4 @@ Whenn delta = 0:
     That means that the equation has two roots, however theses two are the same. r1 = r2.
 
 When delta < 0:
-    Well, when this happens mean that the equation doesn't have real roots. We will not go futher when this case happens.
+    Well, when this happens mean that the equation doesn't have real roots. We will not go futher in this case.
