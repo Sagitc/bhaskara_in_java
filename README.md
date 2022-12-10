@@ -1,9 +1,6 @@
-This is a program that calculate two roots of a quadratic equation through the famous bhaskára, in other words:
-
-(-b ± √delta)/2*a        //        delta = sqrt(b²-4*a*c)
-
 reference: ax²+bx+c
 
+(-b ± √delta)/2*a        -        delta = sqrt(b²-4*a*c)
 
 Things that you have to know:
 
