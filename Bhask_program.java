@@ -1,8 +1,8 @@
-package projetos.bhask_program;
+package projetos.bhask_in_java;
 
 import java.util.Scanner;
 
-public class Bhask_java_program{
+public class Bhask_program{
     public static void main(String[] args){
         System.out.println("Please check the README.md before use.");
 
@@ -17,9 +17,9 @@ public class Bhask_java_program{
         System.out.print("\nThe value of 'c': ");
         c = entrance.nextFloat();
 
-        entrance.close();
+        entrance.close(); //closing the scanner
 
-        delta = uses.roots(a,b,c);
+        delta = uses.roots(a,b,c); 
 
         root1 = (-b + (float)Math.sqrt(delta))/(2*a);
         root2 = (-b - (float)Math.sqrt(delta))/(2*a);
