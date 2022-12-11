@@ -1,8 +1,8 @@
-package studium.Java.bhask_program;
+package projetos.bhask_program;
 
 import java.util.Scanner;
 
-public class Bhask_program{
+public class Bhask_java_program{
     public static void main(String[] args){
         System.out.println("Please check the README.md before use.");
 
