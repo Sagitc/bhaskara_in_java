@@ -4,7 +4,7 @@ reference: ax²+bx+c
 
 Things that you have to know:
 
-    1° - Bhaskára is a mathematical formula that gives you, in most case, two numbers that are roots of the equation, in other words, two numbers that makes the equation be 0.
+    1° - Bhaskára is a mathematical formula that gives you, in most case, two numbers that are roots of the equation, in other words, two numbers that makes the equation          be 0.
     2° - Using bhaskára gives you three endings: delta < 0, delta = 0 and delta > 0
 
 When delta > 0:
